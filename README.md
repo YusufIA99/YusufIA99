@@ -1,4 +1,3 @@
-Hi there 👋🏾 Im Yusuf a 6th semester IT student, with a passion for front-end web development. Most of my projects are build from the ground up, from planning and designing all the way to the finished product. 
+Hi there 👋🏾 Im Yusuf a 6th semester IT student, with a passion for front-end web development. 
 
-
-
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
