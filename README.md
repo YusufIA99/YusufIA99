@@ -14,7 +14,4 @@
 #
 
 
-### Stats
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufIA99&show_icons=true&theme=gruvbox)
-
 
